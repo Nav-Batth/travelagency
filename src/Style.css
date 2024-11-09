@@ -1,0 +1,68 @@
+.col1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ct1-col2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 55px;
+}
+.h{
+    font-family: 'Times New Roman', Times, serif;
+}
+.padding{
+    padding: 45px;
+}
+.hd1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: black;
+    font-size: 25px;
+}
+.fw{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 22px;
+}
+.tc{
+    color: rgb(232, 169, 87);
+}
+.hd1:hover{
+    color:  rgb(232, 169, 87);
+}
+.lc{
+    color: rgb(136, 135, 135);
+}
+.ltc{
+    color: rgb(136, 135, 135);
+}
+.ltc:hover{
+    color: rgb(232, 169, 87);
+}
+.hfw{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    font-weight: bold;
+}
+.hbtn{
+    background-color: rgb(232, 169, 87);
+    border: 2px solid rgb(232, 169, 87);
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
